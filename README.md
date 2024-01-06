@@ -1,5 +1,6 @@
 # Brio
-Brio is a suite of tools to enhance your GPosing experience, primarily developed by Asgard.
+Brio is a suite of tools to enhance your GPosing experience, originally developed by Asgard now maintained by Kisa Valentine.
+
 Brio is currently in alpha, and as such, there may be bugs. If you find any, please report them.
 
 ## Features
@@ -19,17 +20,18 @@ Brio is currently in alpha, and as such, there may be bugs. If you find any, ple
 * Works with Ktisis and Anamnesis (Enable Brio integration within Anamnesis for a better experience)
 
 ## Installation
-1. Add the custom Dalamud repo `https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json`
+1. Add the custom Dalamud repo `https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json`
 2. Enable the `Brio` plugin
 3. Run the `/brio` command
 
 ## Support
 Brio is still early in Alpha so issues are expected.
 
-Please either open an [issue](https://github.com/AsgardXIV/Brio/issues) or visit us on [Discord](https://discord.gg/KvGJCCnG8t) if you need help!
+Please either open an [issue](https://github.com/Valentine-Tools/Brio/issues) or visit us on [Discord](https://discord.gg/KvGJCCnG8t) if you need help!
 
 ## Authors
-* [Asgard](https://github.com/AsgardXIV) - Main development.
+* [Kisa Valentine](https://github.com/KisaValentine) - Maintaining.
+* [Asgard](https://github.com/AsgardXIV) - Original author and main developer.
 
 ## Acknowledgements
 Brio wouldn't be possible without the tireless work of many devs across many projects.
@@ -44,7 +46,7 @@ A special thanks goes to:
 * [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor)
 * [Cammy](https://github.com/UnknownX7/Cammy)
 
-Find out more about this [here](https://github.com/AsgardXIV/Brio/blob/main/Acknowledgements.md).
+Find out more about this [here](https://github.com/Valentine-Tools/Brio/blob/main/Acknowledgements.md).
 
 ## License
-Brio is licensed under the [GPL 3.0 license](https://github.com/AsgardXIV/Brio/blob/main/LICENSE).
+Brio is licensed under the [GPL 3.0 license](https://github.com/Valentine-Tools/Brio/blob/main/LICENSE).

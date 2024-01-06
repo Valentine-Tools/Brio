@@ -1,12 +1,12 @@
 ﻿{
-  "Author": "Asgard",
+  "Author": "Kisa Valentine",
   "Name": "Brio",
   "Punchline": "Enhanced GPosing.",
   "Description": "Control actors during GPose sessions.",
   "AssemblyVersion": "0.0.0.1",
   "InternalName": "Brio",
   "ApplicableVersion": "any",
-  "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
+  "IconUrl": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/Resources/Images/BrioIcon.png",
   "Tags": [
     "gpose",
     "brio",
